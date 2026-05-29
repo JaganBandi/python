@@ -38,6 +38,9 @@ myfamily = {
 
 print(myfamily)
 
+print(myfamily["person3"]["name"])
+print(myfamily["person4"]["age"])
+
 for person, details in myfamily.items():
 
     print(person)
