@@ -1,0 +1,37 @@
+[
+    {
+        "Sale_ID": 101,
+        "Vehicle": "Hyundai Creta",
+        "Category": "SUV",
+        "City": "Hyderabad",
+        "Price": 1800000
+    },
+    {
+        "Sale_ID": 102,
+        "Vehicle": "Honda City",
+        "Category": "Sedan",
+        "City": "Bengaluru",
+        "Price": 1500000
+    },
+    {
+        "Sale_ID": 103,
+        "Vehicle": "Tata Nexon",
+        "Category": "SUV",
+        "City": "Hyderabad",
+        "Price": 1200000
+    },
+    {
+        "Sale_ID": 104,
+        "Vehicle": "Maruti Swift",
+        "Category": "Hatchback",
+        "City": "Chennai",
+        "Price": 900000
+    },
+    {
+        "Sale_ID": 105,
+        "Vehicle": "Kia Seltos",
+        "Category": "SUV",
+        "City": "Hyderabad",
+        "Price": 1600000
+    }
+]
